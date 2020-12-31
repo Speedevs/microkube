@@ -1,6 +1,6 @@
 app:
-  name: "Microkube"
-  domain: "app.local"
+  name: "King"
+  domain: "kingex.xyz"
   subdomain: "www"
 ssl:
   enabled: true
